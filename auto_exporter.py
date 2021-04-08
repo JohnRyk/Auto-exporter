@@ -5,7 +5,7 @@ Description: Try to export each activitiy in specified android apk using root pr
         than take a screenshot and save to the current path apk name directory.
 Usage: ./auto_enum_activity.py <xxx.apk>
 Require: aapt adb
-Author: Ryk Zen
+Author: JRZ
 '''
 
 import os
